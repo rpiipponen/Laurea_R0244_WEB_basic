@@ -66,7 +66,7 @@ progress {
 }
 
 .bodysecond {
-	background-image: url("images/background.jpg");
+	background-image: url("background.jpg");
 	background-color: gray;
 	background-repeat: no-repeat;
 	background-size: 1600px 2200px;
@@ -100,7 +100,7 @@ progress {
 	height: 300px;
 	float: left;
 	clear: left;
-	background-image: url("images/synthwave.jpg");
+	background-image: url("synthwave.jpg");
 }
 
 .article {
@@ -109,7 +109,7 @@ progress {
 	height: 300px;
 	float: left;
 	clear: left;
-	background-image: url("images/ritari.jpg");
+	background-image: url("ritari.jpg");
 	background-repeat: no-repeat;
 	background-size: 110%;
 }
@@ -118,7 +118,7 @@ progress {
 	width: 400px;
 	height: 600px;
 	float: left;
-	background-image: url("images/david.jpg");
+	background-image: url("david.jpg");
 	background-repeat: no-repeat;
 	background-size: 150%;
 
@@ -172,7 +172,7 @@ progress {
 }
 
 .bodylayout {
-	background-image: url("images/background.jpg");
+	background-image: url("background.jpg");
 	background-color: gray;
 	background-repeat: no-repeat;
 	background-size: 100%;
