@@ -1,0 +1,213 @@
+.header {
+	background-image: url("banneri1.jpg");
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	max-width: 1500px;
+	height: 700px;
+	
+}
+
+body {
+	background-color: black;
+}
+
+.header .wrapper {
+	
+	max-width: 1500px;
+	height: 125px;
+	background-color: black;
+	opacity: 25%;
+}
+	
+
+.header h1 {
+	
+	color: white;
+	font-size: 86px;
+	fonr-family: helvetica;
+	text-style: bold;
+	opacity: 100%;
+	
+}
+
+.nav {
+	background: brown;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	max-width: 1500px;
+	height: 25%;
+}
+
+.nav ul li a {
+	text-decoration: none;
+	color: black;
+}
+
+.nav ul li {
+	list-style-type: none;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+	font-size: 42px;
+	
+}
+	
+.footer {
+	max-width: 1500px;
+	height: 75px;
+	border-top: 2px solid blue;
+	background-color: brown;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.footer ul li {
+	
+	list-style-type: none;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px ;
+	font-size: 12px;
+}
+
+.footer p {
+	
+	float: left;
+	margin-left: 350px;
+	margin-top: 25px;
+	font-family: helvetica;
+	fontsize: 24px;
+	
+		
+	
+}
+
+.logo {
+	
+	background-color: green;
+	width: 50px;
+	height: 50px;
+	
+}
+
+.content { 
+
+	max-width: 1500px;
+	max-height: 1500px;
+	border-top: solid;
+	background-color: gray;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	
+}
+
+.content p {
+	
+	font-size: 32px;
+	font-family: helvetica;
+	font-style: italic;
+	padding: 50px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.about { 
+
+	max-width: 1500px;
+	max-height: 1000px;
+	background-color: gray;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding: 50px;
+	
+}
+
+.about .row {
+	
+	max-width: 1500px;
+	max-height: 1000px;
+	
+}
+
+.about .col-sm-8 {
+	
+	border: solid;
+	border-color: white;
+	height: 400px;
+	background-color: coral;
+	margin-top: 50px;
+	text-align: center;
+	padding: 25px;
+	font-family: helvetica; 
+	font-size: 24px;
+	font-style: italic;
+	
+	
+}
+
+.about .col-sm-4 {
+	
+	border: solid;
+	border-color: green;
+	height: 400px;
+	background-color: white;
+	margin-top: 50px;
+	
+	
+}
+
+.contact { 
+
+	max-width: 1500px;
+	max-height: 1000px;
+	background-color: gray;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding: 50px;
+	
+}
+
+.contact .col-sm-4 { 
+
+	border: solid;
+	border-color: green;
+	height: 400px;
+	background-color: white;
+	margin-top: 50px;
+	
+}
+
+
+.contact .col-sm-8 {
+	
+	border: solid;
+	border-color: white;
+	height: 400px;
+	background-color: coral;
+	margin-top: 50px;
+	text-align: center;
+	padding: 25px;
+	font-family: helvetica; 
+	font-size: 24px;
+	font-style: italic;
+	
+}
+
+.map {
+	
+	width: 1500px;
+	height: 250px;
+	background-color: lime;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+	
+	
+	
