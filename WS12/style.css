@@ -1,0 +1,414 @@
+.header {
+	background-image: url("banneri1.jpg");
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	max-width: 1500px;
+	height: 700px;
+	
+}
+
+body {
+	background-color: black;
+}
+
+.header .wrapper {
+	
+	max-width: 1500px;
+	height: 125px;
+	background-color: black;
+	opacity: 25%;
+}
+	
+
+.header h1 {
+	
+	color: white;
+	font-size: 130px;
+	font-family: Brush Script MT;
+	text-shadow: 5px 5px black;
+	transform: rotate(-15deg);
+	padding-top: 40px;
+	
+	
+}
+
+.nav {
+	background-image: url("kuvat/wood1.jpg");
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	max-width: 1500px;
+	height: 25%;
+	background-size: cover;
+	filter: grayscale(75%);
+
+	
+}
+
+.nav ul li a {
+	text-decoration: none;
+	color: black;
+	
+}
+
+.nav ul li {
+	list-style-type: none;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+	font-size: 48px;
+	
+}
+
+.nav ul li :hover {
+	color: red;
+}
+	
+.footer {
+	max-width: 1500px;
+	height: 75px;
+	border-top: 1px solid #5c5656;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-top: 40px;
+}
+
+.footer ul li {
+	
+	list-style-type: none;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px ;
+	font-size: 12px;
+}
+
+.footer p {
+	
+	float: left;
+	margin-left: 350px;
+	margin-top: 25px;
+	font-family: helvetica;
+	font-size: 16px;
+	color: white;
+	
+		
+	
+}
+
+.logo {
+	
+	width: 50px;
+	height: 50px;
+	background-image: url("logos/facebooklogo.png");
+	background-size: contain;	
+	
+}
+.logo2 {
+	
+	width: 50px;
+	height: 50px;
+	background-image: url("logos/instalogo.png");
+	background-size: contain;	
+	
+}
+.logo3{
+	
+	width: 50px;
+	height: 50px;
+	background-image: url("logos/twitterlogo.png");
+	background-size: contain;	
+	
+}
+.logo4 {
+	
+	width: 50px;
+	height: 50px;
+	background-image: url("logos/linkedinlogo.png");
+	background-size: contain;	
+	
+}
+
+
+.content { 
+
+	max-width: 1500px;
+	max-height: 1500px;
+	border: solid 1px #5c5656;
+	background-color: black;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	color: white;
+	padding: 25px;
+	
+}
+.contentpic { 
+
+	max-width: 1500px;
+	height: 800px;
+	border: solid 2px black;
+	background-color: green;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url("kuvat/content.jpg");
+	background-size: cover;
+	text-align: center;
+	
+	
+	
+}
+
+.contentpic p {
+	
+	font-size: 48px;
+	font-family: helvetica;
+	padding: 20%;
+	color: white;
+	text-shadow: 3px 3px black; 
+}
+
+.content p {
+	
+	font-size: 32px;
+	font-family: helvetica;
+	font-style: italic;
+	padding: 50px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.about { 
+
+	max-width: 1500px;
+	max-height: 1000px;
+	background-color: black;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding: 50px;
+	
+	
+}
+
+.about .row {
+	
+	max-width: 1500px;
+	max-height: 1000px;
+	
+}
+
+.about .col-sm-8 {
+	
+	height: 400px;
+	background-color: black;
+	margin-top: 50px;
+	text-align: center;
+	padding: 25px;
+	font-family: helvetica; 
+	font-size: 24px;
+	font-style: italic;
+	color: white;
+	
+	
+}
+
+.about .col-sm-4 {
+	
+	height: 400px;
+	background-color: white;
+	margin-top: 50px;
+	
+	
+}
+.about #about1 {
+	background-image: url("kuvat/gallery2.jpg");
+	background-size: cover;	
+}
+
+.about #about2 {
+	background-image: url("kuvat/tilat.jpg");
+	background-size: cover;	
+}
+
+
+
+.contact { 
+
+	max-width: 1500px;
+	max-height: 1000px;
+	background-color: black;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding: 50px;
+	
+}
+
+.contact .col-sm-4 { 
+
+	border: gray solid 1px;
+	height: 400px;
+	background-color: white;
+	margin-top: 50px;
+	
+}
+.contact #contactkuva {
+	background-image: url("kuvat/brewmaster.jpg");
+	background-size: cover;	
+	font-family: helvetica;
+	font-style: italic;
+	font-size: 24px;
+	text-align: center;
+	padding-top: 350px;
+	color: white;
+	text-shadow: 2px 2px black;
+	
+	
+}
+
+
+.contact .col-sm-8 {
+	
+	height: 400px;
+	background-color: black;
+	margin-top: 50px;
+	text-align: center;
+	padding: 25px;
+	font-family: helvetica; 
+	font-size: 24px;
+	font-style: italic;
+	color: white;
+	
+}
+
+.map {
+	
+	width: 1500px;
+	height: 250px;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 25px;
+	
+}
+iframe {
+	filter: invert(100%);
+	width: 100%; 
+	height: 100%;  
+}
+
+.gallery {
+	max-width: 1500px;
+	max-height: 3000px;
+	background-color: black;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding: 50px;
+}
+
+.gallery .col-sm-4 {
+	
+	height: 400px;
+	background-color: white;
+	margin-top: 25px;
+	border: 1px solid #5c5656;
+	
+}
+	
+
+.gallery #gallery1 {
+	
+	background-color: white;
+	margin-top: 50px;
+	background-image: url("kuvat/gallery1.jpg");
+	background-size: cover;
+}
+
+.gallery #gallery2 {
+	
+	margin-top: 50px;
+	background-image: url("kuvat/pint.jpg");
+	background-size: cover;
+}
+.gallery #gallery3 {
+	
+	background-color: white;
+	margin-top: 50px;
+	background-image: url("kuvat/gallery3.jpg");
+	background-size: cover;
+}
+.gallery #gallery4 {
+	
+	background-color: white;
+	margin-top: 50px;
+	background-image: url("kuvat/gallery4.jpg");
+	background-size: cover;
+}
+.gallery #gallery5 {
+	
+	background-color: white;
+	margin-top: 50px;
+	background-image: url("kuvat/gallery5.jpg");
+	background-size: cover;
+}
+.gallery #gallery6 {
+	
+	background-color: white;
+	margin-top: 50px;
+	background-image: url("kuvat/gallery6.jpg");
+	background-size: cover;
+}
+
+.gallerymore {
+	
+	max-width: 500px;
+	height: 50px;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	opacity: 25%;
+}
+
+.gallerymore p {
+	
+	font-family: helvetica;
+	font-style: italic;
+	font-size: 24px;
+	text-align: center;
+	padding-top: 5px;
+	color: black;
+}
+
+.more {
+	text-decoration: none;
+	color: black;
+}
+
+.gallerymore :hover {
+	
+	background-color: black;
+	color: red;
+}
+	
+.quote {
+	
+	max-width: 1500px;
+	height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: black;
+	margin-top: 25px;
+	font-family: helvetica;
+	font-style: italic;
+	font-size: 40px;
+	text-align: center;
+	padding: 100px;
+	color: white;
+	filter: grayscale(50%);
+}
+	
+	
+	
